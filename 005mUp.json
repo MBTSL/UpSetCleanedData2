@@ -5,10 +5,10 @@
 	"separator": ",",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 1, "name": "Gene" }
+		{ "type": "id", "index": 0, "name": "Gene" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 2, "end": 9 }
+		{ "format": "binary", "start": 1, "end": 7 }
 	],
     "author": "MB",
     "description": "5 min Upregulated",
