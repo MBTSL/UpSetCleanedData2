@@ -3,7 +3,7 @@
 	"name": "AtGenExpress",
 	"header": 0,
 	"separator": ",",
-	"skip": ,
+	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Gene" }
 	],
